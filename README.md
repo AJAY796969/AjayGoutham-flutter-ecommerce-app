@@ -1,5 +1,9 @@
 # ecommerce_app
 
+## 🚀 Live App Demo
+
+[![Launch App](https://img.shields.io/badge/Launch–App–green?style=for-the-badge)](https://appetize.io/apps/android/com.example.ecommerce_app)
+
 A new Flutter project.
 
 ## Getting Started
