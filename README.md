@@ -1,9 +1,11 @@
 # ecommerce_app
 
-### 🔐 Demo Login Credentials
+### 🔐 Authentication
 
-Use the following credentials to log in to the app:
+This application uses Firebase Authentication for secure user login and session management.  
+For demo purposes, a test user account has been provided below.
 
+### 🧪 Demo Login Credentials
 - Email: ecommerce@gmail.com  
 - Password: 1234567
 
