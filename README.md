@@ -2,7 +2,7 @@
 
 ## 🚀 Live App Demo
 
-[![Launch App](https://img.shields.io/badge/Launch–App–green?style=for-the-badge)](https://appetize.io/app/b_dxen5rzswpmx3af7bbosyopvai)
+[![Launch App](https://img.shields.io/badge/Launch-App-green?style=for-the-badge)](https://appetize.io/app/b_dxen5rzswpmx3af7bbosyopvai)
 
 A new Flutter project.
 
