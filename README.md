@@ -1,6 +1,13 @@
 # ecommerce_app
 
-## 🚀 Live App Demo
+### 🔐 Demo Login Credentials
+
+Use the following credentials to log in to the app:
+
+- Email: ecommerce@gmail.com  
+- Password: 1234567
+
+🚀 Live App Demo
 
 [![Launch App](https://img.shields.io/badge/Launch-App-green?style=for-the-badge)](https://appetize.io/app/b_dxen5rzswpmx3af7bbosyopvai)
 
